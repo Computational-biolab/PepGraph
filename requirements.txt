@@ -1,0 +1,12 @@
+# PepGraph / PepGNN runtime requirements
+# For GPU-specific PyTorch installations, install the matching PyTorch build
+# from the official PyTorch instructions before installing this file.
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+biopython==1.84
+openpyxl==3.1.5
+joblib==1.4.2
+torch==2.2.2
+torch-geometric==2.5.3
